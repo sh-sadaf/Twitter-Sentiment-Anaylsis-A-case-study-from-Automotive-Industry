@@ -14,6 +14,7 @@ Before creating models and visualizing data preprocessing has been applied
 - Tokenizing strings
 - Removing emojis / 
 - Performing stemming / lemmatization
+
 After preprocessing positive, negative and neutral sentiments has been isolated and analyzed deeply using Trigram Anaylsis. 
 Most important 10 topics have been discovered after using LDA(topic Modelling) technique
 ## Twitter Sentiment and Stock price 
