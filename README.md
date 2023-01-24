@@ -8,12 +8,12 @@ Nearly 45K tweets has been extracted from October 22 till December 22 by using m
 - the tweets contain the following keywords:Tesla, Mercedes, BMW, Audi
 ## Preprocessing and Visualization
 Before creating models and visualizing data preprocessing has been applied
--Converting text to lowercase
--Removing stopwords, punctuation, URLs, retweet mark (RTs), and username handles (@user)
--Spelling correction
--Tokenizing strings
--Removing emojis / 
--Performing stemming / lemmatization
+- Converting text to lowercase
+- Removing stopwords, punctuation, URLs, retweet mark (RTs), and username handles (@user)
+- Spelling correction
+- Tokenizing strings
+- Removing emojis / 
+- Performing stemming / lemmatization
 After preprocessing positive, negative and neutral sentiments has been isolated and analyzed deeply using Trigram Anaylsis. 
 Most important 10 topics have been discovered after using LDA(topic Modelling) technique
 ## Twitter Sentiment and Stock price 
